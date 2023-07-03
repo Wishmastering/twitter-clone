@@ -2,4 +2,5 @@
   height: 28px;
   filter: invert(47%) sepia(71%) saturate(384%) hue-rotate(160deg)
     brightness(91%) contrast(87%);
+  padding: 10px;
 }
